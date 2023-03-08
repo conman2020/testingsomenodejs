@@ -1,0 +1,22 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "firsttry",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/conman2020/firstnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conman2020/firstnode/issues"
+  },
+  "homepage": "https://github.com/conman2020/firstnode#readme",
+  "dependencies": {
+    "axios": "^1.3.4"
+  }
+}
